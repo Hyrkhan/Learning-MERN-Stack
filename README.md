@@ -14,7 +14,7 @@ Ensure you have the following installed on your machine:
 - [MongoDB](https://www.mongodb.com/try/download/community) (if applicable for the project)
 - [Git](https://git-scm.com/downloads)
 
-##Tutorial
+## Tutorial
 
 I'm also just following a tutorial on YouTube made by Net Ninja
 - [MERN Crash Course](https://youtube.com/playlist?list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&si=IeGVlT0eeXsHHKFw)

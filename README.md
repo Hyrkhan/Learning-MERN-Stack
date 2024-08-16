@@ -17,5 +17,4 @@ Ensure you have the following installed on your machine:
 ##Tutorial
 
 I'm also just following a tutorial on YouTube made by Net Ninja
-Link to the youtube playlist of MERN Crash Course:
 - [MERN Crash Course](https://youtube.com/playlist?list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE&si=IeGVlT0eeXsHHKFw)

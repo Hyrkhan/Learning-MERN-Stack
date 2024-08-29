@@ -13,6 +13,8 @@ Ensure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en/download/) (which includes npm)
 - [MongoDB](https://www.mongodb.com/try/download/community) (if applicable for the project)
 - [Git](https://git-scm.com/downloads)
+- [React](https://reactjs.org/docs/getting-started.html) (this will be the frontend)
+- [CORS Middleware](https://www.npmjs.com/package/cors) (for enabling CORS in your Node.js backend and ensuring communication between frontend and backend)
 
 ## Tutorial
 
